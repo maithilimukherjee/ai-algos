@@ -7,21 +7,6 @@ Goals
 - Offer reproducible examples and datasets (or links) for exercises and assignments.
 - Be a learning resource and a starter codebase for student projects.
 
-Table of contents
-- Overview
-- Repository structure
-- Languages & tools
-- Installation
-- Quick start
-- How to run notebooks and scripts
-- Datasets
-- Tests
-- Contribution guide
-- License & contact
-
-Overview
-This repository is organized to separate conceptual notebooks and polished algorithm implementations. Notebooks are used for interactive exploration and visual explanation; scripts and modules contain reusable implementations suitable for assignments and integration into larger projects.
-
 Languages & tools
 - Primary: Python (>=3.8 recommended)
 - Jupyter / JupyterLab for notebooks

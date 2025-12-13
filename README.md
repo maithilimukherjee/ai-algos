@@ -1,6 +1,6 @@
 # AI Algos — Semester 5 
 
-A curated collection of implementations, notebooks, assignments and experiments for AI algorithms covered in Semester 5. This repository collects algorithmic implementations, visualizations and practice problems to help learn and teach core AI techniques (search, optimization, probabilistic models, ML algorithms and more).
+A curated collection of implementations, notebooks, assignments and experiments for AI algorithms covered in Semester 5. This repository collects algorithmic implementations, visualizations and practice problems to help learn and teach core AI techniques (search, optimization, probabilistic models, ML algorithms, Supervised Learning, Unsupervised Learning and more).
 
 Goals
 - Provide clear, well-documented implementations of algorithms taught in the course.
